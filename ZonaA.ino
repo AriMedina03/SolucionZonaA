@@ -18,4 +18,9 @@ void SolucionZonaA()
         {"", "", "", ""},
         {"", "", "", ""}};
     int Posicion[2] = {2, 3};
+    int PosicionAnterior[2] = {2, 3};
+    if (CasillaSePuedeVisitar() !)
+    {
+        SePuedeVisitar[Posicion[0]][Posicion[1]] = true;
+    }
 }
